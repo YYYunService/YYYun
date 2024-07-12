@@ -1,9 +1,8 @@
-# YYYun
-悠游云官网地址 | YYun Home Page
-悠游云官网地址
-最新地址：login.y6yun.com
+# 悠游云 YYYun
+悠游云 官网地址 | YYun Home Page
+最新地址：www.y6yun.com 网站套壳 访问稍慢 耐心等待
 
-悠游云介绍
+悠游云 介绍
 
 网站使用高防CDN，修补泄露源站IP漏洞，防止被人恶意攻击使网站不可访问。
 
